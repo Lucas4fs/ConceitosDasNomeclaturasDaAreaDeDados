@@ -1,6 +1,6 @@
-#Conceitos das Nomenclaturas da Área de Dados
+# Conceitos das Nomenclaturas da Área de Dados
 
-##Dataset vs. DataFrame
+## Dataset vs. DataFrame
 
 Dataset é o conceito geral do conjunto de dados, o arquivo em si com as informações (como um arquivo CSV ou JSON).
 
